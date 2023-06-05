@@ -10,3 +10,4 @@
 - [Pascal Triangle](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PascalTriangle)
 - [Next Permutation](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/NextPermutation)
 - [Maximum Subarray Sum](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumSubarraySum)
+- [Sort 0 1 2](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/Sort012)
