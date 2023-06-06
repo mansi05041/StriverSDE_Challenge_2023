@@ -16,3 +16,4 @@
 
 ### DAY 2 (6 june 2023)
 - [Merge Intervals](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MergeIntervals)
+- [Find Duplicate in Array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FindDuplicateInArray)
