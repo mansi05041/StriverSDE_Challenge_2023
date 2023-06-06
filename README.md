@@ -13,3 +13,6 @@
 - [Sort 0 1 2](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/Sort012)
 - [Best time to buy and sell stocks](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/BestTimeToBuy_Sell_Stock)
 - [Merge Two Sorted Arrays](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MergeTwoSortedArrays)
+
+### DAY 2 (6 june 2023)
+- [Merge Intervals](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MergeIntervals)
