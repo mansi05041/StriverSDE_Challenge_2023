@@ -24,3 +24,4 @@
 - [Count Inversion](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/inversionCount)
 - [Modular Exponentiation](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ModularExponentiation)
 - [Majority Element](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MajorityElement)
+- [Majority Element -II](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MajorityElementII)
