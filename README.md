@@ -23,3 +23,4 @@
 ### DAY 3 (7 june 2023)
 - [Count Inversion](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/inversionCount)
 - [Modular Exponentiation](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ModularExponentiation)
+- [Majority Element](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MajorityElement)
