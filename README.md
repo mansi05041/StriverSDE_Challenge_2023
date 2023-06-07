@@ -26,3 +26,4 @@
 - [Majority Element](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MajorityElement)
 - [Majority Element -II](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MajorityElementII)
 - [Unique paths](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/uniquePaths)
+- [Pair Sum](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PairSum)
