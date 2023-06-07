@@ -19,3 +19,6 @@
 - [Find Duplicate in Array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FindDuplicateInArray)
 - [Missing and Repeating number](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/Missing%26RepeatingNumber)
 - [Search in a 2D matrix](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/Search2DMatrix)
+
+### DAY 3 (7 june 2023)
+- [Count Inversion](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/inversionCount)
