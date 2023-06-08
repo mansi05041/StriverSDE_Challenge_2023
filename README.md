@@ -31,3 +31,4 @@
 ### DAY 4 (8 june 2023)
 - [Reverse Pairs](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ReversePairs)
 - [Longest Subarray Zero Sum](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LongestSubarrayZeroSum)
+- [Longest consecutive Sequence](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LongestConsecutiveSequence)
