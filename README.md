@@ -38,3 +38,4 @@
 ### DAY 5 (9 june 2023)
 - [Reverse Linked List](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ReverseLinkedList)
 - [Middle of Linked list](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MiddleLinkedList)
+- [Merge Two sorted linked list](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MergeTwoSortedLinkedList)
