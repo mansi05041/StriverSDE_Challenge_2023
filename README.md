@@ -34,3 +34,6 @@
 - [Longest consecutive Sequence](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LongestConsecutiveSequence)
 - [Longest substring without repeating characters](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LongestSubstringWithoutRepeatingCharacters)
 - [Count subarrays with given XOR](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CountSubarraysWithGivenXOR)
+
+### DAY 5 (9 june 2023)
+- [Reverse Linked List](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ReverseLinkedList)
