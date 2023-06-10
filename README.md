@@ -42,3 +42,7 @@
 - [Delete Kth Node from End](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/DeleteKthNodeFromEnd)
 - [Add Two Numbers](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/AddTwoNumbers)
 - [Delete Node in a Linked list](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/DeleteNodeLinkedList)
+
+### DAY 6 (10 june 2023)
+- [Intersection of Two Linked lists](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/IntersectionTwoLinkedLists)
+- []
