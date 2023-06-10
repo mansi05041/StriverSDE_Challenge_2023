@@ -46,3 +46,4 @@
 ### DAY 6 (10 june 2023)
 - [Intersection of Two Linked lists](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/IntersectionTwoLinkedLists)
 - [Cycle Detection in a Singly Linked List](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/DetectLoopLinkedList)
+- [Palindrome Linked List](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PalindromeLinkedList)
