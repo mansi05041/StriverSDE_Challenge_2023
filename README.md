@@ -48,3 +48,6 @@
 - [Cycle Detection in a Singly Linked List](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/DetectLoopLinkedList)
 - [Palindrome Linked List](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PalindromeLinkedList)
 - [Linked List cycle- II](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LinkedListCycleII)
+
+### DAY 7 (11 june 2023)
+- [Flatten A Linked list](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FlattenLinkedList)
