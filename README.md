@@ -51,3 +51,4 @@
 
 ### DAY 7 (11 june 2023)
 - [Flatten A Linked list](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FlattenLinkedList)
+- [Rotate Linked list](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RotateLinkedList)
