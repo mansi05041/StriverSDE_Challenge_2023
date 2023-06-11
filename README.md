@@ -53,3 +53,4 @@
 - [Flatten A Linked list](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FlattenLinkedList)
 - [Rotate Linked list](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RotateLinkedList)
 - [Copy List with Random Pointer](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CopyListRandomPointer)
+- [Reverse Nodes in K-Group](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ReverseNodesKGroup)
