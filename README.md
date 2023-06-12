@@ -54,3 +54,6 @@
 - [Rotate Linked list](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RotateLinkedList)
 - [Copy List with Random Pointer](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CopyListRandomPointer)
 - [Reverse Nodes in K-Group](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ReverseNodesKGroup)
+
+### DAY 8 (12 june 2023)
+- [3 Sum](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/3Sum)
