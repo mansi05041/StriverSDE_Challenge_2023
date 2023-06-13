@@ -63,3 +63,4 @@
 - [Rotate matrix](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RotateMatrix)
 - [Find Four elements that sums to a given value](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FindFourElementsSumTarget)
 - [Maximum Consecutive Ones](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumConsecutiveOnes)
+- [Trap Rain Water](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/TrapRainWater)
