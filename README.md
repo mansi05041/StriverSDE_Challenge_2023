@@ -58,3 +58,6 @@
 ### DAY 8 (12 june 2023)
 - [3 Sum](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/3Sum)
 - [Remove Duplicates from Sorted Array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RemoveDuplicatesfromSortedArray)
+
+### DAY 9 (13 june 2023)
+- [Rotate matrix](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RotateMatrix)
