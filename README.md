@@ -70,3 +70,4 @@
 
 ### DAY 11 (15 june 2023)
 - [Maximum meetings](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumMeetings)
+- [Minimum Number of Platforms](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MinimumNumberPlatforms)
