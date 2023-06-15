@@ -69,4 +69,4 @@
 - [Fractional Knapsack](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FractionalKnapSack)
 
 ### DAY 11 (15 june 2023)
-= [Maximum meetings](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumMeetings)
+- [Maximum meetings](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumMeetings)
