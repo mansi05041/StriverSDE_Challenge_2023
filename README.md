@@ -65,6 +65,8 @@
 - [Maximum Consecutive Ones](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumConsecutiveOnes)
 - [Trap Rain Water](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/TrapRainWater)
 
-
 ### DAY 10 (14 june 2023)
 - [Fractional Knapsack](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FractionalKnapSack)
+
+### DAY 11 (15 june 2023)
+= [Maximum meetings](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumMeetings)
