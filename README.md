@@ -72,3 +72,4 @@
 - [Maximum meetings](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumMeetings)
 - [Minimum Number of Platforms](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MinimumNumberPlatforms)
 - [Job Sequencing Problem](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/JobSequencingProblem)
+- [Find Minimum Number of Coins](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FindMinimumNumberCoins)
