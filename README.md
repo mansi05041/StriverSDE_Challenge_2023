@@ -76,3 +76,4 @@
 
 ### DAY 12 (16 june 2023)
 - [Maximum Activities](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumActivities)
+- [Subset Sum](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SubsetSum)
