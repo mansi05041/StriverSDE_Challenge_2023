@@ -85,3 +85,4 @@
 
 ### DAY 14 (18 june 2023)
 - [Palindrome partition](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PalindromePartition)
+- [Kth Permutation Sequence](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KPermutationSequence)
