@@ -92,3 +92,4 @@
 - [N Queens](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/NQueens)
 - [Valid Sudoku](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ValidSudoku)
 - [M-coloring Problem](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MColoringProblem)
+- [Rat in a Maze all paths](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RatInMazeAllPaths)
