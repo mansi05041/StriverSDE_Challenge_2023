@@ -89,3 +89,4 @@
 
 ### DAY 15 (19 june 2023)
 - [Print Permutation](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PrintPermutation)
+- [N Queens](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/NQueens)
