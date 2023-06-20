@@ -94,3 +94,4 @@
 - [M-coloring Problem](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MColoringProblem)
 - [Rat in a Maze all paths](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RatInMazeAllPaths)
 - [Find Nth root of M](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FindNRootM)
+- [Single Element in a sorted array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SingleElementSortedArray)
