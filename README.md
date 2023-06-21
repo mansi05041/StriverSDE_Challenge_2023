@@ -104,3 +104,4 @@
 
 ### DAY 17 (21 june 2023)
 - [Stack Implementation](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/StackImplementation)
+- [Chess Tournament](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/chessTournament)
