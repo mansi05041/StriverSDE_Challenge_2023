@@ -101,3 +101,6 @@
 - [Median of two sorted arrays](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MedianTwoSortedArrays)
 - [Search in Rotated Sorted array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SearchInRotatedSortedArray)
 - [Kth smallest and largest Element of Array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KthSmallestLargestElementArray)
+
+### DAY 17 (21 june 2023)
+- [Stack Implementation](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/StackImplementation)
