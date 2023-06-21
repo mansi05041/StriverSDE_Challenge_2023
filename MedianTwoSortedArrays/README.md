@@ -25,12 +25,14 @@ Space Complexity: O(n)
 ### Better approach using merge sort
 - merged the both arrays using two pointers.
 - return the median of combined array.
+  
 Time Complexity: O(n)</br>
 Space Complexity: O(n)
 
 ### Better approach using merge sort without creating combined array
 - using two pointer, reach to the median position
 - return the median.
+  
 Time Complexity: O(n)</br>
 Space Complexity: O(1)
 
@@ -46,5 +48,6 @@ Space Complexity: O(1)
     - If the cuts are valid, return the median.
     - if the left elements of a are greater than the right elements of b, adjust high index for binary search. otherwise adjust low index.
 - if no median found, return 0.0
+  
 Time Complexity: O(log(min(n1,n2)))</br>
 Space Complexity: O(1)
