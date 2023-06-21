@@ -100,3 +100,4 @@
 - [Matrix Median](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MedianMatrix)
 - [Median of two sorted arrays](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MedianTwoSortedArrays)
 - [Search in Rotated Sorted array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SearchInRotatedSortedArray)
+- [Kth smallest and largest Element of Array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KthSmallestLargestElementArray)
