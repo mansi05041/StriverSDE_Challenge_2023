@@ -95,3 +95,8 @@
 - [Rat in a Maze all paths](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RatInMazeAllPaths)
 - [Find Nth root of M](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FindNRootM)
 - [Single Element in a sorted array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SingleElementSortedArray)
+
+### DAY 16 (20 june 2023)
+- [Matrix Median](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MedianMatrix)
+- [Median of two sorted arrays](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MedianTwoSortedArrays)
+- [Search in Rotated Sorted array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SearchInRotatedSortedArray)
