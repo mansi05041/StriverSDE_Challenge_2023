@@ -109,3 +109,6 @@
 - [Kth Element of two sorted array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/kElementTwoSortedArray)
 - [K Max Sum Combination](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KMaxSumCombination)
 - [Merge K sorted Arrays](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MergeKSortedArrays)
+
+### DAY 18 (22 june 2023)
+- [Running Median](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RunningMedian)
