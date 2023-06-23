@@ -113,3 +113,6 @@
 ### DAY 18 (22 june 2023)
 - [Running Median](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RunningMedian)
 - [K Most Frequent Elements](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KMostFrequentElements)
+
+### DAY 19 (23 june 2023)
+- [Valid Parenthesis](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ValidParentheses)
