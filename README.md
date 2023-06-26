@@ -126,3 +126,4 @@
 ### DAY 22 (26 june 2023)
 - [Stack using Queue](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/StackUsingQueue)
 - [Queue using Stack](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/QueueUsingStack)
+- [Next Greater Element](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/NextGreaterElement)
