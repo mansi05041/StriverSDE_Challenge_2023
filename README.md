@@ -116,3 +116,9 @@
 
 ### DAY 19 (23 june 2023)
 - [Valid Parenthesis](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ValidParentheses)
+
+### DAY 20 (24 june 2023)
+- [Min Stack](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MinStack)
+
+### DAY 21 (25 june 2023)
+- []()
