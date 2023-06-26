@@ -121,4 +121,4 @@
 - [Min Stack](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MinStack)
 
 ### DAY 21 (25 june 2023)
-- []()
+- [Next Smaller Element](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/NextSmallerElement)
