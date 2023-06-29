@@ -128,3 +128,6 @@
 - [Queue using Stack](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/QueueUsingStack)
 - [Next Greater Element](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/NextGreaterElement)
 - [Least Recently Used](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LRUcache)
+
+### DAY 23 (27 june 2023)
+- [Least frequency Used](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LFUCache)
