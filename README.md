@@ -131,3 +131,6 @@
 
 ### DAY 23 (27 june 2023)
 - [Least frequency Used](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LFUCache)
+
+### DAY 24 (28 june 2023)
+- [Roman Numeral To Integer](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RomanNumber2Integer)
