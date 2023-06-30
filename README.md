@@ -134,3 +134,7 @@
 
 ### DAY 24 (28 june 2023)
 - [Roman Numeral To Integer](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RomanNumber2Integer)
+
+### DAY 25 (29 june 2023)
+- [Largest Rectangle in Histogram](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LargestRectangleHistogram)
+- [Rotten Oranges](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RottenOranges)
