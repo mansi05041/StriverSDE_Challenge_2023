@@ -138,3 +138,8 @@
 ### DAY 25 (29 june 2023)
 - [Largest Rectangle in Histogram](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LargestRectangleHistogram)
 - [Rotten Oranges](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RottenOranges)
+
+### DAY 26 (30 june 2023)
+- [Implement Atoi Function](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ImplementAtoiFunction)
+- [Inorder Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/InorderTraversal)
+- [Preorder Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PreorderTraversal)
