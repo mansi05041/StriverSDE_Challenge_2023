@@ -148,3 +148,6 @@
 - [Implement Trie](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ImplementTrie)
 - [Implement Trie II](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ImplementTrieII)
 - [Reverse Words in a string](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ReverseWordsString)
+
+### DAY 28 (2 july 2023)
+- [Longest Palindromic Substring](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LongestPalindromicSubstring)
