@@ -156,3 +156,4 @@
 
 ### DAY 29 (3 july 2023)
 - [Min Heap](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MinHeap)
+- [Sort a stack](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SortStack)
