@@ -161,3 +161,4 @@
 
 ### DAY 30 (4 july 2023)
 - [Complete String](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CompleteString)
+- [Number of Distinct Substring](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/NumberOfDistinctSubstring)
