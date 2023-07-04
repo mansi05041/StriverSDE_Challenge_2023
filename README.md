@@ -158,3 +158,6 @@
 - [Min Heap](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MinHeap)
 - [Sort a stack](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SortStack)
 - [Postorder Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PostorderTraversal)
+
+### DAY 30 (4 july 2023)
+- [Complete String](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CompleteString)
