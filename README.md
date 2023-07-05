@@ -167,3 +167,4 @@
 ### DAY 31 (5 july 2023)
 - [Maximum of minimum for every window size](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumOfMinimumEveryWindowSize)
 - [Top View of Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/TopViewBinaryTree)
+- [Bottom View of Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/BottomViewBinaryTree)
