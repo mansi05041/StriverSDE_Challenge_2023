@@ -163,3 +163,6 @@
 - [Complete String](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CompleteString)
 - [Number of Distinct Substring](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/NumberOfDistinctSubstring)
 - [Left View of a Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LeftViewBinaryTree)
+
+### DAY 31 (5 july 2023)
+- [Maximum of minimum for every window size](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumOfMinimumEveryWindowSize)
