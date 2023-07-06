@@ -170,3 +170,6 @@
 - [Bottom View of Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/BottomViewBinaryTree)
 - [Vertical Order Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/VerticalOrderTraversal)
 - [Diameter of Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/DiameterBinaryTree)
+
+### DAY 32 (6 july 2023)
+- [Maximum in Sliding Windows of Size K](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumInSlidingWindowsSizeK)
