@@ -173,3 +173,4 @@
 
 ### DAY 32 (6 july 2023)
 - [Maximum in Sliding Windows of Size K](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumInSlidingWindowsSizeK)
+- [Longest Common Prefix](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LongestCommonPrefix)
