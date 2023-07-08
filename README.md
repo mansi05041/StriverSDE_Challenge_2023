@@ -177,3 +177,6 @@
 
 ### DAY 33 (7 july 2022)
 - [Celebrity Problem](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/celebrityProblem)
+
+### DAY 34 (8 july 2022)
+- [Word Break II](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/wordBreakII)
