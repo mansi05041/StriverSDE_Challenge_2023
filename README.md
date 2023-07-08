@@ -181,3 +181,4 @@
 ### DAY 34 (8 july 2022)
 - [Word Break II](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/wordBreakII)
 - [Path in a tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PathInATree)
+- [Maximum Width in Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumWidthBinaryTree)
