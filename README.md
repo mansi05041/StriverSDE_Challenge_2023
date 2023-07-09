@@ -175,11 +175,14 @@
 - [Maximum in Sliding Windows of Size K](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumInSlidingWindowsSizeK)
 - [Longest Common Prefix](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LongestCommonPrefix)
 
-### DAY 33 (7 july 2022)
+### DAY 33 (7 july 2023)
 - [Celebrity Problem](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/celebrityProblem)
 
-### DAY 34 (8 july 2022)
+### DAY 34 (8 july 2023)
 - [Word Break II](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/wordBreakII)
 - [Path in a tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PathInATree)
 - [Maximum Width in Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumWidthBinaryTree)
 - [Is Height Balanced Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/IsHeightBalancedBinaryTree)
+
+### DAY 35 (9 july 2023)
+- [Power Set](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PowerSet)
