@@ -187,3 +187,5 @@
 ### DAY 35 (9 july 2023)
 - [Power Set](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PowerSet)
 - [Binary Tree Zigzag Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/BinaryTreeZigZagTraversal)
+- [Maximum XOR of Two numbers in an Array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaxXOR)
+- [Check identical Trees](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/IdenticalTrees)
