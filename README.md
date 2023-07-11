@@ -193,3 +193,7 @@
 ### DAY 36 (10 july 2023)
 - [Construct Binary Tree from Inorder and Preorder Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ConstructBTfromInorderPreorder)
 - [Symmetric Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SymmetricTree)
+
+### DAY 37 (11 july 2023)
+- [Boundary Traversal of Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/BoundaryTraversal)
+- 
