@@ -196,4 +196,4 @@
 
 ### DAY 37 (11 july 2023)
 - [Boundary Traversal of Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/BoundaryTraversal)
-- 
+- [Maximum Path Sum between Two leaves](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumPathSumBwTwoLeaves)
