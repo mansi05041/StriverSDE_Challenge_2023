@@ -1,4 +1,4 @@
-# [Postorder Traversal](https://www.codingninjas.com/studio/problems/binary-tree-zigzag-traversal_8230796?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+# [Zig Zag Traversal](https://www.codingninjas.com/studio/problems/binary-tree-zigzag-traversal_8230796?challengeSlug=striver-sde-challenge&leftPanelTab=0)
 
 ## Table of contents
 
