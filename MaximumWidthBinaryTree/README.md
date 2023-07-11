@@ -6,7 +6,7 @@
 - [Algorithm](#algorithm)
 
 ## Question
-Given a binary tree of 'n' nodes, where the nodes have integer values. Task is to return the maximum width of the Binary Tree. The width of one level is defined as the length between the leftmost and the rightmot.
+Given a binary tree of 'n' nodes, where the nodes have integer values. Task is to return the maximum width of the Binary Tree. The width of one level is defined as the length between the leftmost and the rightmost.
 
 ## Algorithm
 - If the root is NULL, return 0 as the width is zero.
