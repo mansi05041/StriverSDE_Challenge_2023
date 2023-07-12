@@ -201,3 +201,4 @@
 ### DAY 38 (12 july 2023)
 - [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ConstructBTfromInorderPostorder)
 - [Search in BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SearchInBST)
+- [Flatten Binary Tree to Linked list](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FlattenBinaryTreeToLinkedList)
