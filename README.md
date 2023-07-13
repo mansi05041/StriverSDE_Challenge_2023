@@ -202,3 +202,6 @@
 - [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ConstructBTfromInorderPostorder)
 - [Search in BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SearchInBST)
 - [Flatten Binary Tree to Linked list](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FlattenBinaryTreeToLinkedList)
+
+### DAY 39 (13 july 2023)
+- [Invert a Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/InvertBinaryTree)
