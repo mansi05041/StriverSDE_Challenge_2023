@@ -205,3 +205,4 @@
 
 ### DAY 39 (13 july 2023)
 - [Invert a Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/InvertBinaryTree)
+- [Maximum XOR with an Element from array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaxXORWithElementArray)
