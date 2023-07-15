@@ -216,3 +216,4 @@
 - [Convert Sorted Array to BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/convertedSortedArray2BST)
 - [Construct BST from Preorder Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ConstructBSTfromPreorderTraversal)
 - [Kth largest Number BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KLargestBST)
+- [Kth largest element in unsorted array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KthLargestElementUnsortedArray)
