@@ -211,3 +211,6 @@
 - [Online Stock Span](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/OnlineStockSpan)
 - [Predecessor and Successor in BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PredecessorSuccessorBST)
 - [Height of the Binary Tree from Inorder and Level Order Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/HeightBTfromInorderLevelOrder)
+
+### DAY 41 (15 july 2023)
+- [Convert Sorted Array to BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/convertedSortedArray2BST)
