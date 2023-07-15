@@ -214,3 +214,4 @@
 
 ### DAY 41 (15 july 2023)
 - [Convert Sorted Array to BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/convertedSortedArray2BST)
+- [Construct BST from Preorder Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ConstructBSTfromPreorderTraversal)
