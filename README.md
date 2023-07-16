@@ -217,3 +217,6 @@
 - [Construct BST from Preorder Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ConstructBSTfromPreorderTraversal)
 - [Kth largest Number BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KLargestBST)
 - [Kth largest element in unsorted array](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KthLargestElementUnsortedArray)
+
+### DAY 42 (16 july 2023)
+- [LCA of Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LCABinaryTree)
