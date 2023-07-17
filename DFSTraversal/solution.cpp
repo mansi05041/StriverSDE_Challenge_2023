@@ -6,7 +6,7 @@ void dfs(int node,vector<int>& temp,vector<int>& visited,vector<int> adj[]){
 
     // iterate to the adjacent neighbors
     for(auto it: adj[node]){
-        if(visited[it]==0) dfs(node,temp,visited,adj);
+        if(visited[it]==0) dfs(it,temp,visited,adj);
     }
 }
 
