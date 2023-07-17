@@ -221,3 +221,6 @@
 ### DAY 42 (16 july 2023)
 - [LCA of Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LCABinaryTree)
 - [Kth Largest Element in a Stream](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KthLargestElementStream)
+
+### DAY 43 (17 july 2023)
+- [Connect Nodes at Same Level](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ConnectNodesSameLevel)
