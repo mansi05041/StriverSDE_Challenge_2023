@@ -224,3 +224,4 @@
 
 ### DAY 43 (17 july 2023)
 - [Connect Nodes at Same Level](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ConnectNodesSameLevel)
+- [DFS Traversal](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/DFSTraversal)
