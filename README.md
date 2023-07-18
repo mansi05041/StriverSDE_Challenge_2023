@@ -234,3 +234,4 @@
 - [LCA of Two Nodes in a BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LCAinBST)
 - [Floor in BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FloorBST)
 - [Ceil from BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CeilFromBST)
+- [BST Iterator](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/BSTIterator)
