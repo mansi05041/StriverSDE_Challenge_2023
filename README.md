@@ -231,3 +231,4 @@
 
 ### DAY 44 (18 july 2023)
 - [Tree Traversals](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/TreeTraversal)
+- [LCA of Two Nodes in a BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LCAinBST)
