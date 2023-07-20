@@ -239,3 +239,7 @@
 ### DAY 45 (19 july 2023)
 - [Serialize and Deserialize Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SerializeDeserializeBT)
 - [Size of Largest BST in Binary Tree](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SizeLargestBSTinBT)
+
+### DAY 46 (20 july 2023)
+- [Partial BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PartialBST)
+- [Median in a stream](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MedianInStream)
