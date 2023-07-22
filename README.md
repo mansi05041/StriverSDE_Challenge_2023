@@ -249,3 +249,6 @@
 
 ### DAY 47 (21 july 2023)
 - [Topological Sort](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/TopologicalSort)
+
+### DAY 48 (22 july 2023)
+- [Find Number of Islands](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FindNumberOfIslands)
