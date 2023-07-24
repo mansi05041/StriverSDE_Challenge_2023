@@ -264,3 +264,4 @@
 - [Floyd Warshall](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FloydWarshall)
 - [Pair Sum in BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PairSumBST)
 - [Children Sum Property](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ChildrenSumProperty)
+- [0 1 Knapsack](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/01KnapSack)
