@@ -265,3 +265,12 @@
 - [Pair Sum in BST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PairSumBST)
 - [Children Sum Property](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/ChildrenSumProperty)
 - [0 1 Knapsack](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/01KnapSack)
+
+### DAY 51 (25 july 2023)
+- [Coin Change](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CoinChange)
+- [Compare Version](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CompareVersion)
+
+### DAY 52 (26 july 2023)
+- [Subset Sum Equals to K](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/SubsetSumEqualToK)
+- [Count and Say](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CountAndSay)
+- [Edit Distance](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/EditDistance)
