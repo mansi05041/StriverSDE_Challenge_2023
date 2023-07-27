@@ -279,3 +279,4 @@
 ### DAY 53 (27 july 2023)
 - [Maximum Product Subarray](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumProductSubarray)
 - [Prime's MST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PrimesMST)
+- [Rod Cutting Problem](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RodCuttingProblem)
