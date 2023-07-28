@@ -17,7 +17,7 @@ Output: 3
 
 ### Recursion
 ```
-bool Recursion(int idx,int prev,int arr[],int n){
+int Recursion(int idx,int prev,int arr[],int n){
   // base case
   if(idx==n) return 0;
 
