@@ -281,3 +281,6 @@
 - [Prime's MST](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PrimesMST)
 - [Rod Cutting Problem](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/RodCuttingProblem)
 - [Word Break](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/WordBreak)
+
+### DAY 54 (28 july 2023)
+- [Longest Increasing Subsequence](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LongestIncreasingSubsequence)
