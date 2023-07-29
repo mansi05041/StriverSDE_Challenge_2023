@@ -290,3 +290,5 @@
 
 ### DAY 55 (29 july 2023)
 - [Longest Common Subsequence](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LongestCommonSubsequence)
+- [Cut Logs](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CutLogs)
+- [Palindrome Partitioning II](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PalindromePartitioningII)
