@@ -287,3 +287,6 @@
 - [Matrix Chain Multiplication](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MatrixChainMultiplication)
 - [Maximum Sum Increasing Subsequence](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MaximumSumIncreasingSubsequence)
 - [Strongly connected Components](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/StronglyConnectedComponents)
+
+### DAY 55 (29 july 2023)
+- [Longest Common Subsequence](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/LongestCommonSubsequence)
