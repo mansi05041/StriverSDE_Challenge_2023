@@ -293,3 +293,6 @@
 - [Cut Logs](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/CutLogs)
 - [Palindrome Partitioning II](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/PalindromePartitioningII)
 - [Allocate Books](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/AllocateBooks)
+
+### DAY 56 (30 july 2023)
+- [Kruskal's Minimum Spanning Tree Algorithm](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KruskalMST)
