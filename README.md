@@ -297,3 +297,4 @@
 ### DAY 56 (30 july 2023)
 - [Kruskal's Minimum Spanning Tree Algorithm](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/KruskalMST)
 - [Find Pattern in String - KMP](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/FindPatternStringKMP)
+- [Minimum Characters for Palindrome](https://github.com/mansi05041/StriverSDE_Challenge_2023/tree/main/MinimumCharactersForPalindrome)
