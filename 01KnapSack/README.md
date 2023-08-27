@@ -19,7 +19,7 @@ Explaination: The most optimal way to fill the knapsack is to choose items with 
 ## Algorithm
 
 ### Recursion
-'''
+```
 int Recursion(int idx,vector<int>& values,vector<int>& weights,int w){
     // base case
     if(idx==0){
@@ -36,7 +36,7 @@ int Recursion(int idx,vector<int>& values,vector<int>& weights,int w){
 
     return max(notTake,Take);
 }
-'''
+```
 Time Complexity: O(2<sup>n</sup>)</br>
 Space Complexity: O(n)
 
